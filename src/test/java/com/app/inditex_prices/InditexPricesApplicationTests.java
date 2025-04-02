@@ -8,6 +8,7 @@ class InditexPricesApplicationTests {
 
 	@Test
 	void contextLoads() {
+		assert true;
 	}
 
 }
